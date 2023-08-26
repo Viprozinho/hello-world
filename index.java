@@ -15,5 +15,7 @@ public class index {
         } else {
             System.out.println("Resposta Errada!");
         }
+
+        System.out.println("New");
     }
 }
